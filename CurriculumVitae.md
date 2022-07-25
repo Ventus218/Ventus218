@@ -3,7 +3,7 @@
 
 ## Informazioni Personali
 
-<img src="images/me2.jpg" alt="Alessandro Venturini" width=195px style="float: right; padding: 7px 15px;">
+<img src="images/me2.jpg" alt="Alessandro Venturini" width=200px align="right" style="padding: 6px 15px;">
 
 > |||
 > |-----------------------|---------------------------|
