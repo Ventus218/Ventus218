@@ -3,7 +3,7 @@
 
 ## Informazioni Personali
 
-<img src="images/me2.jpg" alt="Alessandro Venturini" width=200px align="right" style="padding: 6px 15px;">
+<img src="images/me2.jpg" alt="Alessandro Venturini" width=200px align="right" style="padding: 5px 15px;">
 
 > |||
 > |-----------------------|---------------------------|
@@ -39,6 +39,8 @@
 
 ##### Madrelingua
 > Italiano
+
+<br><br><br>
 
 ##### Altre lingue
 > |Inglese|Livello|
