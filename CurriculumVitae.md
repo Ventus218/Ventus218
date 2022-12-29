@@ -1,14 +1,14 @@
 <h1 style="text-align:center; font-size:30px"> Curriculum Vitae - Alessandro Venturini</h1>
 
 
-## Informazioni Personali
+## Informazioni personali
 
 <img src="images/me2.jpg" alt="Alessandro Venturini" style="padding: 5px 15px; width: 200px; float: right;">
 
 > |||
 > |-----------------------|---------------------------|
 > |Nome                   |**Alessandro Venturini**|
-> |Data di Nascita        |**21/08/2000**|
+> |Data di nascita        |**21/08/2000**|
 > |Nazionalità            |**Italiana**|
 > |Indirizzo              |**Via Riva di Reno 126 (Bologna)**|
 > |E-mail                 |**ales.ventus21@gmail.com**|
@@ -17,13 +17,13 @@
 >
 
 
-## Esperienza Lavorativa
+## Esperienza lavorativa
 
-##### Ad Oggi
+##### Ad oggi
 > Nessuna
 
 
-## Istruzione e Formazione
+## Istruzione e formazione
 
 ##### *Luglio 2019*
 > Diploma presso Liceo Scientifico Augusto Righi di Bologna
@@ -31,11 +31,11 @@
 ##### *Settembre 2019 - Settembre 2021*
 > Studio presso il corso di Ingegneria Informatica all'Università di Bologna
 
-##### *Settembre 2021 - ad Oggi*
+##### *Settembre 2021 - ad oggi*
 > Studio presso il corso di Ingegneria e Scienze Informatiche nella sede di Cesena dell'Università di Bologna
 
 
-## Capacità ed Esperienze Personali
+## Capacità ed esperienze personali
 
 ##### Madrelingua
 > Italiano
@@ -43,18 +43,18 @@
 ##### Altre lingue
 > |Inglese|Livello|
 > |------------------------------------|-----------|
-> |Capacità di Lettura                 |**Molto Buono**|
-> |Capacità di Scrittura               |**Molto Buono**|
-> |Capacità di Espressione Orale       |**Buono**|
+> |Capacità di lettura                 |**Molto Buono**|
+> |Capacità di scrittura               |**Molto Buono**|
+> |Capacità di espressione orale       |**Buono**|
 
 ##### Formazione personale
-> ##### *Settembre 2018 - ad Oggi*
+> ##### *Settembre 2018 - ad oggi*
 > Partecipazione al percorso continuo di formazione *Soft Skills Academy*
 
 
-## Competenze Informatiche
+## Competenze informatiche
 
-##### Linguaggi di Programmazione, Markup e Stile
+##### Linguaggi di programmazione, markup e stile
 > |Linguaggio|Livello|
 > |---------------------|-----------|
 > |Swift                |**Ottimo**|
@@ -72,7 +72,7 @@
 > |Typescript           |**Base**|
 
 ##### Tecnologie
-> - Sistemi Operativi:
+> - Sistemi operativi:
 >   - MacOS
 >   - Linux
 >   - Windows
@@ -119,7 +119,7 @@
 ### [Drones](https://github.com/Ventus218/NetworkProgramming-Drones) (universitario)
 > Sistema che simula la comunicazione tra un client, un gateway e dei droni per le spedizioni. Si è in parte emulato il funzionamento del protocollo TCP attraverso l'utilizzo del protocollo UDP (solo a scopo didattico)
 
-### AllGames (niversitario in fase di sviluppo)
+### AllGames (universitario in fase di sviluppo)
 > Social network a tema "Videogiochi" sviluppato utilizzando lo stack Xampp.
 
 
