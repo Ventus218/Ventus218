@@ -63,10 +63,12 @@
 > |SQL                  |**Molto Buono**|
 > |Shell                |**Molto Buono**|
 > |Python               |**Buono**|
+> |PHP                  |**Discreto**|
+> |HTML                 |**Discreto**|
+> |Markdown (.md)       |**Discreto**|
+> |CSS                  |**Discreto**|
 > |C#                   |**Base**|
-> |HTML                 |**Base**|
-> |Markdown (.md)       |**Base**|
-> |CSS                  |**Base**|
+> |Javascript           |**Base**|
 > |Typescript           |**Base**|
 
 ##### Tecnologie
@@ -93,6 +95,7 @@
 >   - UIKit (iOS)
 >   - [Vapor](https://github.com/vapor/vapor) (Sever Side Swift)
 >   - JavaFX (Base)
+>   - Bootstrap (Base)
 >
 > - Git
 >
@@ -100,20 +103,24 @@
 >
 > - VirtualBox (Base)
 
+## Progetti in *production*
 
-## Progetti Universitari e Personali
+### [Salus Carichi](https://salus-carichi.ddns.net) (Per l'azienda di famiglia)
+> Duo di applicazioni iOS (e relativo backend) sviluppate per andare a migliorare il processo di lavoro, l'organizzazione delle spedizioni, e ridurre il numero di errori umani all'interno di un'azienda di distribuzione di bevande.
 
-### [Salus Carichi](https://salus-carichi.ddns.net) (Personale)
-> Duo di applicazioni iOS (e relativo backend) sviluppate per andare a migliorare il processo di lavoro, l'organizzazione delle spedizioni, e ridurre il numero di errori umani all'interno di un'azienda di distribuzione di bevande (azienda di famiglia)
-
-### [SwiftVersionDetector](https://github.com/Ventus218/SwiftVersionDetector) (Personale)
+### [SwiftVersionDetector](https://github.com/Ventus218/SwiftVersionDetector) (Open source)
 > Utility per ottenere a runtime la versione installata di Swift
 
-### [F1antasy](https://github.com/Ventus218/F1antasy-App) (Universitario)
+## Progetti universitari
+
+### [F1antasy](https://github.com/Ventus218/F1antasy-App) (universitario)
 > Gioco della categoria *fantasy* sul mondo della Formula 1
 
-### [Drones](https://github.com/Ventus218/NetworkProgramming-Drones) (Universitario)
+### [Drones](https://github.com/Ventus218/NetworkProgramming-Drones) (universitario)
 > Sistema che simula la comunicazione tra un client, un gateway e dei droni per le spedizioni. Si è in parte emulato il funzionamento del protocollo TCP attraverso l'utilizzo del protocollo UDP (solo a scopo didattico)
+
+### AllGames (niversitario in fase di sviluppo)
+> Social network a tema "Videogiochi" sviluppato utilizzando lo stack Xampp.
 
 
 ## Altro
@@ -124,4 +131,4 @@
 ##### Informazioni su di me
 > Sono innamorato dell'Informatica. Sono curioso, tenace e tengo tanto a mettere sempre qualcosa di mio in ciò che faccio.
 > 
-> Mi piace stringere bei rapporti con le persone che ho attorno.
+> Per me è molto importante stringere bei rapporti con le persone che ho attorno.
