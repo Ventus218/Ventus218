@@ -1,4 +1,4 @@
-<p style="text-align:center; font-size:30px"> Curriculum Vitae - Alessandro Venturini</p>
+<h1 style="text-align:center; font-size:30px"> Curriculum Vitae - Alessandro Venturini</h1>
 
 
 ## Informazioni Personali
