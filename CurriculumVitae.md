@@ -113,13 +113,13 @@
 
 ## Progetti universitari
 
-### [F1antasy](https://github.com/Ventus218/F1antasy-App) (universitario)
+### [F1antasy](https://github.com/Ventus218/F1antasy-App)
 > Gioco della categoria *fantasy* sul mondo della Formula 1
 
-### [Drones](https://github.com/Ventus218/NetworkProgramming-Drones) (universitario)
+### [Drones](https://github.com/Ventus218/NetworkProgramming-Drones)
 > Sistema che simula la comunicazione tra un client, un gateway e dei droni per le spedizioni. Si è in parte emulato il funzionamento del protocollo TCP attraverso l'utilizzo del protocollo UDP (solo a scopo didattico)
 
-### AllGames (universitario in fase di sviluppo)
+### AllGames (in fase di sviluppo)
 > Social network a tema "Videogiochi" sviluppato utilizzando lo stack Xampp.
 
 
