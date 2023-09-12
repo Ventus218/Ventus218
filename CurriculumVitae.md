@@ -19,8 +19,10 @@
 
 ## Esperienza lavorativa
 
-##### Ad oggi
-> Nessuna
+##### *Marzo 2023 - Giugno 2023*
+> Tirocinio curricolare di 150 ore svolto presso [Oltre Solutions s.r.l.](https://www.oltresolutions.com) durante il quale ho riscritto un'applicazione Android portandola anche su iOS utilizzando Xamarin.Forms.
+>
+> L'applicazione è attualmente in production sull'[App Store](https://apps.apple.com/it/app/load-manager/id6448108872?platform=iphone).
 
 
 ## Istruzione e formazione
@@ -59,16 +61,16 @@
 > |---------------------|-----------|
 > |Swift                |**Ottimo**|
 > |Java                 |**Molto Buono**|
+> |C#                   |**Molto Buono**|
 > |C                    |**Molto Buono**|
 > |SQL                  |**Molto Buono**|
 > |Shell                |**Molto Buono**|
+> |Markdown (.md)       |**Molto Buono**|
+> |HTML                 |**Molto Buono**|
+> |CSS                  |**Molto Buono**|
 > |Python               |**Buono**|
-> |PHP                  |**Discreto**|
-> |HTML                 |**Discreto**|
-> |Markdown (.md)       |**Discreto**|
-> |CSS                  |**Discreto**|
-> |C#                   |**Base**|
-> |Javascript           |**Base**|
+> |Javascript           |**Buono**|
+> |PHP                  |**Buono**|
 > |Typescript           |**Base**|
 
 ##### Tecnologie
@@ -88,18 +90,26 @@
 >   - VisualStudioCode
 >   - IntelliJ IDEA
 >   - Eclipse
->   - DataGrip
+>   - DataGrip (Base)
 >
 > - Framework:
 >   - SwiftUI (iOS)
 >   - UIKit (iOS)
 >   - [Vapor](https://github.com/vapor/vapor) (Sever Side Swift)
+>   - Xamarin.Forms
+>   - .NET MAUI
 >   - JavaFX (Base)
 >   - Bootstrap (Base)
 >
 > - Git
 >
-> - Docker (Base)
+> - Docker
+>
+> - Unity e game development (Base)
+>
+> - Kubernetes (Base)
+>
+> - Terraform (Base)
 >
 > - VirtualBox (Base)
 
@@ -113,14 +123,22 @@
 
 ## Progetti universitari
 
+### [AllGames](https://github.com/Ventus218/AllGames)
+> Social network a tema "Videogiochi" sviluppato utilizzando lo stack Xampp.
+
 ### [F1antasy](https://github.com/Ventus218/F1antasy-App)
 > Gioco della categoria *fantasy* sul mondo della Formula 1
 
-### [Drones](https://github.com/Ventus218/NetworkProgramming-Drones)
-> Sistema che simula la comunicazione tra un client, un gateway e dei droni per le spedizioni. Si è in parte emulato il funzionamento del protocollo TCP attraverso l'utilizzo del protocollo UDP (solo a scopo didattico)
+### [Markdown TOC Online](https://github.com/Ventus218/markdown-toc-online)
+> Strumento utilizzabile come pagina web o web API per generare la *table of contents* di un documento in markdown.
+>
+> La parte funzionale del progetto è stato solo un pretesto per mettere in pratica concetti di Docker, Kubernetes e Terraform 
 
-### AllGames (in fase di sviluppo)
-> Social network a tema "Videogiochi" sviluppato utilizzando lo stack Xampp.
+### [Smart Room](https://github.com/Ventus218/Smart-Room/blob/main/doc/Documentation.md)
+> Progetto riguardante l'ambito dei sistemi embedded e IOT.
+>
+> Viene simulato un sistema che utilizza Arduino, un ESP32 e i protocolli MQTT e HTTP per la gestione di una stanza con luci e tapparelle smart.
+> Il sistema può essere controllato attravero un'interfaccia web oppure via Bluetooth grazie ad un'applicazione Android.
 
 
 ## Altro
