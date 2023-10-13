@@ -2,42 +2,40 @@
 
 I'm a Computer Science and Engineering student at Bologna University in Italy🇮🇹
 
-I'm in love with programming.
+I'm in love with programming and I'm really fascinated by the open source world.
 
-I've just started my journey into open soruce and I can't wait to contribute.
+You can read my CV [here](./CurriculumVitae.md) or look at some of my projects down below!
 
-- ⚙️ I’m currently working on [SwiftVersionDetector](https://github.com/Ventus218/SwiftVersionDetector)
+## My projects
 
-- 🤝 I’m looking for help with [SwiftVersionDetector](https://github.com/Ventus218/SwiftVersionDetector)
+### In production
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alessandro-venturini-334739196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessandro-venturini-334739196" height="30" width="40" /></a>
-</p>
+#### [TOC-it](https://github.com/Ventus218/TOC-it) (Open source)
+> [Web utility](https://ventus218.github.io/TOC-it/) to generate the table of contents of a Markdown document.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+#### [SwiftVersionDetector](https://github.com/Ventus218/SwiftVersionDetector) (Open source)
+> Utility to detect the installed Swift version at runtime.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ventus218&show_icons=true&locale=en&layout=compact" alt="ventus218" /></p>
+#### [Salus Carichi](https://salus-carichi.ddns.net) (Closed source)
+> A system made of a Vapor web server and two iOS apps developed to enhance the workflow, streamline shipment organization, and reduce the occurrence of human errors within a beverage distribution company (family business) in Bologna (Italy).
+
+### University projects
+
+#### [AllGames](https://github.com/Ventus218/AllGames)
+> "Videogames" themed social network developed using the Xampp stack.
+
+#### [F1antasy](https://github.com/Ventus218/F1antasy-App)
+> A Formula 1 game where the objective is building the best possible team with a given budget.
+
+#### [Markdown TOC Online](https://github.com/Ventus218/markdown-toc-online)
+> Tool usable as a web page or web API to generate the table of contents for a markdown document.
+>
+> The functional part of the project was merely a pretext to implement concepts of Docker, Kubernetes, and Terraform.
+
+#### [Smart Room](https://github.com/Ventus218/Smart-Room/blob/main/doc/Documentation.md)
+> Project in the field of embedded systems and IOT.
+>
+> It simulates a system that uses Arduino, an ESP32, and MQTT and HTTP protocols to manage a room with smart lights and blinds.
+> The system can be controlled through a web interface or via Bluetooth using an Android application.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ventus218&show_icons=true&locale=en" alt="ventus218" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ventus218&" alt="ventus218" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ventus218" alt="ventus218" /></a> </p>
-
-
-<!--
-**Ventus218/Ventus218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
