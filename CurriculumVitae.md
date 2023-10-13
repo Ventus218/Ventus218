@@ -33,8 +33,16 @@
 ##### *Settembre 2019 - Settembre 2021*
 > Studio presso il corso di Ingegneria Informatica all'Università di Bologna
 
-##### *Settembre 2021 - ad oggi*
-> Studio presso il corso di Ingegneria e Scienze Informatiche nella sede di Cesena dell'Università di Bologna
+##### *Settembre 2021 - Giugno 2023*
+> Studio presso il corso triennale di Ingegneria e Scienze Informatiche nella sede di Cesena dell'Università di Bologna
+
+##### *Ottobre 2023*
+> Laurea triennale in Ingegneria e Scienze Informatiche (106/110)
+>
+> Tesi: **ANALISI DEL FRAMEWORK .NET MAUI PER LO SVILUPPO DI APPLICAZIONI MULTIPIATTAFORMA E REALIZZAZIONE DI UN’APPLICAZIONE COME CASO DI STUDIO**
+
+##### *Settembre 2023 - ad oggi*
+> Studio presso il corso magistrale di Ingegneria e Scienze Informatiche nella sede di Cesena dell'Università di Bologna
 
 
 ## Capacità ed esperienze personali
@@ -117,6 +125,9 @@
 
 ### [Salus Carichi](https://salus-carichi.ddns.net) (Per l'azienda di famiglia)
 > Duo di applicazioni iOS (e relativo backend) sviluppate per andare a migliorare il processo di lavoro, l'organizzazione delle spedizioni, e ridurre il numero di errori umani all'interno di un'azienda di distribuzione di bevande.
+
+### [TOC-it](https://github.com/Ventus218/TOC-it) (Open source)
+> [Web utility](https://ventus218.github.io/TOC-it/) per generare la *table of contents* di un documento Markdown.
 
 ### [SwiftVersionDetector](https://github.com/Ventus218/SwiftVersionDetector) (Open source)
 > Utility per ottenere a runtime la versione installata di Swift
