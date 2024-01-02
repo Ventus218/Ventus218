@@ -1,0 +1,25 @@
+name: Update profile GitHub-Page
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  update-profile-github-page:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Remove workflows which shouldn\'t be copied
+        run:  rm -rf ./.github
+      - name: Remove git folder which shouldn\'t be copied
+        run:  rm -rf ./.git
+      - name: Pushes to GitHub-Pages repository
+        uses: cpina/github-action-push-to-another-repository@v1.7.2
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.PAGES_REPO_ACCESS_TOKEN }}
+        with:
+          source-directory: '.'
+          destination-github-username: 'Ventus218'
+          destination-repository-name: 'ventus218.github.io'
+          user-name: Ventus-bot
+          target-branch: main
