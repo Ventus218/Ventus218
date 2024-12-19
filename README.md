@@ -19,7 +19,17 @@ You can read my CV [here](./CurriculumVitae.md) or look at some of my projects d
 #### [Salus Carichi](https://salus-carichi.ddns.net) (Closed source)
 > A system made of a Vapor web server and two iOS apps developed to enhance the workflow, streamline shipment organization, and reduce the occurrence of human errors within a beverage distribution company (family business) in Bologna (Italy).
 
+
 ### University projects
+
+#### [Scala Game Engine](https://github.com/Ventus218/Scala-Game-Engine)
+> A simple but extensible game engine for Scala.
+>
+> It exploits mixins to implement the classic Component pattern and features:
+> - basic 2D rendering
+> - basic physics and collisions
+> - testing DSL
+> - 3 example games
 
 #### [AllGames](https://github.com/Ventus218/AllGames)
 > "Videogames" themed social network developed using the Xampp stack.
