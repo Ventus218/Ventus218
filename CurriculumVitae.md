@@ -170,7 +170,12 @@
 
 ##### About me
 
-> I am passionate about Computer Science. I am curious, tenacious, and always strive to add a personal touch to everything I do.
+> I am deeply passionate about Computer Science, with a strong focus on its engineering aspects. I am curious, tenacious and I always strive to add a personal touch into my work.
 >
-> Building strong relationships with the people around me is very important to me.
-
+> My top two priorities are:
+> - Delivering high-quality software is my top priority, and I am committed to continuous improvement in every project I undertake.
+> - Enjoying work and building meaningful relationships with my colleagues.
+> 
+> Currently, I am particularly intrigued by functional programming and its potential to increase software quality.
+>
+> Looking ahead, I'd like to contribute to the development of software or tools to be used by developers.
