@@ -85,6 +85,7 @@
 > | Javascript     | **Intermediate** |
 > | PHP            | **Intermediate** |
 > | Gleam          | **Intermediate** |
+> | Prolog         | **Beginner**     |
 > | Typescript     | **Beginner**     |
 
 ##### Technologies
@@ -113,11 +114,13 @@
 >   - [Vapor](https://github.com/vapor/vapor) (Server Side Swift)
 >   - Xamarin.Forms
 >   - .NET MAUI
+>   - Akka
 >   - JavaFX (Beginner)
 >   - Bootstrap (Beginner)
 >
 > - Git
 > - Docker
+> - Docker compose
 > - Kubernetes
 > - Unity and Game Development (Beginner)
 > - Terraform (Beginner)
