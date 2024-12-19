@@ -52,12 +52,10 @@
 
 ##### Other languages
 
-> | Language              | Level         |
-> | --------------------- | ------------- |
-> | English               | Level         |
-> | Reading Comprehension | **Very Good** |
-> | Writing Skills        | **Very Good** |
-> | Oral Expression       | **Good**      |
+> - English:
+>   - Reading Comprehension: **Very Good**
+>   - Writing Skills: **Very Good**
+>   - Oral Expression: **Good**
 
 ##### Personal growth
 
