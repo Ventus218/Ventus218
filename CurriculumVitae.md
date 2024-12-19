@@ -90,7 +90,6 @@
 ##### Technologies
 
 > - Operating Systems:
->
 >   - MacOS
 >   - Linux
 >   - Windows
@@ -118,15 +117,10 @@
 >   - Bootstrap (Beginner)
 >
 > - Git
->
 > - Docker
->
 > - Kubernetes
->
 > - Unity and Game Development (Beginner)
->
 > - Terraform (Beginner)
->
 > - VirtualBox (Beginner)
 
 ## Projects in *production*
