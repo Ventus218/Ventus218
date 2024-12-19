@@ -20,7 +20,7 @@
 >
 > The application is currently in production on the [App Store](https://apps.apple.com/it/app/load-manager/id6448108872?platform=iphone).
 
-## Education and training
+## Education
 
 ##### *July 2019*
 
