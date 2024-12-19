@@ -126,41 +126,9 @@
 > - Terraform (Beginner)
 > - VirtualBox (Beginner)
 
-## Projects in *production*
+## Projects
 
-### [Salus Carichi](https://salus-carichi.ddns.net) (For the family business)
-
-> Duo of iOS applications (and their backend) developed to improve workflow, organize shipments, and reduce human errors within a beverage distribution company.
-
-### [TOC-it](https://github.com/Ventus218/TOC-it) (Open Source)
-
-> [Web utility](https://ventus218.github.io/TOC-it/) for generating a *table of contents* for a Markdown document.
-
-### [SwiftVersionDetector](https://github.com/Ventus218/SwiftVersionDetector) (Open Source)
-
-> Utility to retrieve the installed version of Swift at runtime.
-
-## University Projects
-
-### [AllGames](https://github.com/Ventus218/AllGames)
-
-> A video game-themed social network developed using the XAMPP stack.
-
-### [F1antasy](https://github.com/Ventus218/F1antasy-App)
-
-> A *fantasy* game centered around Formula 1.
-
-### [Markdown TOC Online](https://github.com/Ventus218/markdown-toc-online)
-
-> A tool usable as a web page or web API to generate a *table of contents* for a Markdown document.
->
-> The functional part of the project was primarily a pretext for practicing Docker, Kubernetes, and Terraform concepts.
-
-### [Smart Room](https://github.com/Ventus218/Smart-Room/blob/main/doc/Documentation.md)
-
-> A project focusing on embedded systems and IoT.
->
-> Simulates a system using Arduino, an ESP32, and MQTT and HTTP protocols to manage a room with smart lights and shutters. The system can be controlled via a web interface or Bluetooth through an Android application.
+I have always enjoyed developing personal projects to grow my technical skills. You can explore some of the ones I’m most proud of on [my GitHub profile](https://github.com/Ventus218).
 
 ## Additional information
 
