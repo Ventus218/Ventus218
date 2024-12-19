@@ -101,9 +101,9 @@
 >   - DB2
 >
 > - IDE:
+>   - VisualStudioCode
 >   - XCode
 >   - VisualStudio
->   - VisualStudioCode
 >   - IntelliJ IDEA
 >   - Eclipse
 >   - DataGrip (Beginner)
@@ -115,6 +115,7 @@
 >   - Xamarin.Forms
 >   - .NET MAUI
 >   - Akka
+>   - Vue (Beginner)
 >   - JavaFX (Beginner)
 >   - Bootstrap (Beginner)
 >
@@ -122,6 +123,7 @@
 > - Docker
 > - Docker compose
 > - Kubernetes
+> - Kafka (Beginner)
 > - Unity and Game Development (Beginner)
 > - Terraform (Beginner)
 > - VirtualBox (Beginner)
