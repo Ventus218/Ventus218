@@ -61,7 +61,7 @@
 
 ##### Other languages
 
-> - English:
+> - English (B2):
 >   - Reading Comprehension: **Very Good**
 >   - Writing Skills: **Very Good**
 >   - Oral Expression: **Good**
