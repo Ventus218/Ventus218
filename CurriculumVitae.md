@@ -33,24 +33,24 @@
 
 ##### _September 2019 - September 2021_
 
-> Attending bachelor's degree program in computer engineering at the University
+> Attending bachelor's degree program in Computer Engineering at the University
 > of Bologna
 
 ##### _September 2021 - June 2023_
 
-> Attending bachelor's degree program in Computer Engineering and Computer
-> Science at the University of Bologna
+> Attending bachelor's degree program in Computer Engineering and Science at the
+> University of Bologna
 
 ##### _October 2023_
 
-> Bachelor’s degree in Computer Engineering and Computer Science (106/110)
+> Bachelor’s degree in Computer Engineering and Science (106/110)
 >
 > Thesis:
 > **[ANALISI DEL FRAMEWORK .NET MAUI PER LO SVILUPPO DI APPLICAZIONI MULTIPIATTAFORMA E REALIZZAZIONE DI UN’APPLICAZIONE COME CASO DI STUDIO](https://amslaurea.unibo.it/29785/)**
 
 ##### _September 2023 - Present_
 
-> Pursuing a master’s degree in Computer Engineering and Computer Science at the
+> Pursuing a master’s degree in Computer Engineering and Science at the
 > University of Bologna
 
 ## Personal skills and experience
@@ -83,6 +83,7 @@
 > | Java           | **Advanced**     |
 > | C#             | **Proficient**   |
 > | C              | **Proficient**   |
+> | Typescript     | **Proficient**   |
 > | SQL            | **Proficient**   |
 > | Shell          | **Proficient**   |
 > | Markdown (.md) | **Proficient**   |
@@ -92,8 +93,8 @@
 > | Javascript     | **Intermediate** |
 > | PHP            | **Intermediate** |
 > | Gleam          | **Intermediate** |
+> | Lua            | **Beginner**     |
 > | Prolog         | **Beginner**     |
-> | Typescript     | **Beginner**     |
 
 ##### Technologies
 
@@ -104,8 +105,10 @@
 > - DBMS:
 >   - PostgreSQL
 >   - MySQL
+>   - MongoDB
 >   - DB2
 > - IDE:
+>   - NeoVim
 >   - VisualStudioCode
 >   - XCode
 >   - VisualStudio
@@ -119,7 +122,8 @@
 >   - Xamarin.Forms
 >   - .NET MAUI
 >   - Akka
->   - Vue (Beginner)
+>   - Vue
+>   - Express
 >   - JavaFX (Beginner)
 >   - Bootstrap (Beginner)
 > - Git
@@ -155,8 +159,8 @@ You can explore some of the ones I’m most proud of on
 >   continuous improvement in every project I undertake.
 > - Enjoying work and building meaningful relationships with my colleagues.
 >
-> Currently, I am particularly intrigued by functional programming and its
-> potential to increase software quality.
+> I am really passionate about functional programming and its potential to
+> increase software quality.
 >
 > Looking ahead, I'd like to contribute to the development of software or tools
 > to be used by developers.
