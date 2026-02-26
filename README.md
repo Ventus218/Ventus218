@@ -42,6 +42,21 @@ down below!
 > - testing DSL
 > - 3 example games
 
+#### [DomoticASW](https://github.com/DomoticASW)
+
+> A smart home management system featuring:
+>
+> - A web app
+> - Open protocol to be implemented by smart devices in order to become
+>   compatible with the system
+> - Real time view on devices
+> - A visual scripting language for defining task and automations
+> - Ability to group devices in different rooms
+> - Ability to set access control rules
+>
+> You can run locally the [demo](https://github.com/DomoticASW/demo), the only
+> requirement is docker compose.
+
 #### [AllGames](https://github.com/Ventus218/AllGames)
 
 > "Videogames" themed social network developed using the Xampp stack.
@@ -50,21 +65,3 @@ down below!
 
 > A Formula 1 game where the objective is building the best possible team with a
 > given budget.
-
-#### [Markdown TOC Online](https://github.com/Ventus218/markdown-toc-online)
-
-> Tool usable as a web page or web API to generate the table of contents for a
-> markdown document.
->
-> The functional part of the project was merely a pretext to implement concepts
-> of Docker, Kubernetes, and Terraform.
-
-#### [Smart Room](https://github.com/Ventus218/Smart-Room/blob/main/doc/Documentation.md)
-
-> Project in the field of embedded systems and IOT.
->
-> It simulates a system that uses Arduino, an ESP32, and MQTT and HTTP protocols
-> to manage a room with smart lights and blinds. The system can be controlled
-> through a web interface or via Bluetooth using an Android application.
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ventus218&show_icons=true&locale=en" alt="ventus218" /></p>
