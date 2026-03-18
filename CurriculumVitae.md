@@ -29,7 +29,7 @@
 
 ##### _March 2026_
 
-> Master’s degree in Computer Engineering and Science at the University of
+> Master’s degree in Computer Science and Engineering at the University of
 > Bologna
 >
 > Final grade: 110/110 cum laude
@@ -43,12 +43,12 @@
 
 ##### _September 2023 - June 2025_
 
-> Attending master's degree program in Computer Engineering and Science at the
+> Attending master's degree program in Computer Science and Engineering at the
 > University of Bologna
 
 ##### _October 2023_
 
-> Bachelor’s degree in Computer Engineering and Science at the University of
+> Bachelor’s degree in Computer Science and Engineering at the University of
 > Bologna
 >
 > Final grade: 106/110
@@ -58,7 +58,7 @@
 
 ##### _September 2021 - June 2023_
 
-> Attending bachelor's degree program in Computer Engineering and Science at the
+> Attending bachelor's degree program in Computer Science and Engineering at the
 > University of Bologna
 
 ##### _September 2019 - September 2021_
