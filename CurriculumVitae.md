@@ -89,6 +89,13 @@
 >
 > Participation in the continuous personal growth program _Soft Skills Academy_
 
+##### Experiences
+
+> ##### _June 2025_
+>
+> Attended the _Lambda Days_ conference on functional programming in Kraków,
+> Poland. Participation generously sponsored by Erlang Solutions.
+
 ## Technical skills
 
 ##### Programming, markup, and style languages
