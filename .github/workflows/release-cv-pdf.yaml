@@ -3,6 +3,9 @@ name: Release a PDF version of CV
 on:
   push:
     branches: [main]
+    paths:
+      - "cv/**"
+      - ".github/workflows/release-cv-pdf.yaml"
 
 permissions:
   contents: write
@@ -20,7 +23,7 @@ jobs:
           apt install -y --no-install-recommends fonts-inter
 
       - name: Generate PDF
-        run: md-to-pdf --config-file md2pdf-config.json CurriculumVitae.md
+        run: md-to-pdf --config-file cv/md2pdf-config.json cv/CurriculumVitae.md
 
       - name: Set release metadata
         shell: bash
@@ -35,7 +38,7 @@ jobs:
           tag_name: ${{ env.TAG_NAME }}
           target_commitish: ${{ github.sha }}
           name: ${{ env.RELEASE_NAME }}
-          files: CurriculumVitae.pdf
+          files: cv/CurriculumVitae.pdf
           prerelease: false
           generate_release_notes: false
           body: |
