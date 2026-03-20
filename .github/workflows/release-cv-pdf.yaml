@@ -1,0 +1,42 @@
+name: Release a PDF version of CV
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  release-cv-pdf:
+    runs-on: ubuntu-latest
+    container: ventus218/md-to-pdf
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Install Inter font
+        run: |
+          apt update -y
+          apt install -y --no-install-recommends fonts-inter
+
+      - name: Generate PDF
+        run: md-to-pdf --config-file md2pdf-config.json CurriculumVitae.md
+
+      - name: Set release metadata
+        shell: bash
+        run: |
+          SHORT_SHA="${GITHUB_SHA::7}"
+          echo "TAG_NAME=cv-${SHORT_SHA}" >> "$GITHUB_ENV"
+          echo "RELEASE_NAME=CV ${SHORT_SHA}" >> "$GITHUB_ENV"
+
+      - name: Create GitHub release and upload PDF
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ env.TAG_NAME }}
+          target_commitish: ${{ github.sha }}
+          name: ${{ env.RELEASE_NAME }}
+          files: CurriculumVitae.pdf
+          prerelease: false
+          generate_release_notes: false
+          body: |
+            Automated CV PDF build for commit ${{ github.sha }}.

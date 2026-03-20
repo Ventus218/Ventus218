@@ -1,0 +1,16 @@
+{
+    "pdf_options": {
+        "margin": {
+            "top": "1.5cm",
+            "bottom": "1cm",
+            "left": "1cm",
+            "right": "1cm"
+        },
+        "printBackground": true
+    },
+    "stylesheet": ["cv.css"],
+  "launch_options": {
+    "executablePath": "/usr/bin/chromium",
+    "args": ["--no-sandbox", "--disable-setuid-sandbox"]
+  }
+}
