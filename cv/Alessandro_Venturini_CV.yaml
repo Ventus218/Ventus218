@@ -103,8 +103,8 @@ cv:
 
 design:
   theme: classic
-  # page:
-  #   size: us-letter
+  page:
+    size: a4
   #   top_margin: 0.7in
   #   bottom_margin: 0.7in
   #   left_margin: 0.7in
@@ -170,14 +170,14 @@ design:
   #   line_thickness: 0.5pt
   #   space_above: 0.5cm
   #   space_below: 0.3cm
-  # sections:
-  #   allow_page_break: true
-  #   space_between_regular_entries: 1.2em
+  sections:
+    #   allow_page_break: true
+    space_between_regular_entries: 0.9em
   #   space_between_text_based_entries: 0.3em
   #   show_time_spans_in:
   #     - experience
-  # entries:
-  #   date_and_location_width: 4.15cm
+  entries:
+    date_and_location_width: 3cm
   #   side_space: 0.2cm
   #   space_between_columns: 0.1cm
   #   allow_page_break: false
