@@ -99,7 +99,22 @@ cv:
       - label: Languages
         details: Italian (Native), English (B2)
       - label: Soft-skills
-        details: Teamwork, Leadership, Proactivity
+        details:
+          Teamwork, Proactivity, Problem solving, Quick learner, Leadership
+    personal_growth_and_experiences:
+      - name: Lambda Days
+        date: 2025-06
+        location: Kraków, Poland
+        summary: >
+          Conference on functional programming. Participation generously
+          sponsored by Erlang Solutions.
+      - name: Soft Skills Academy
+        location: Bologna, Italy
+        start_date: 2018-09
+        end_date: 2023
+        summary:
+          Continous personal growth program focusing on practical soft-skills
+          training.
 
 design:
   theme: classic
