@@ -13,17 +13,14 @@ permissions:
 jobs:
   release-cv-pdf:
     runs-on: ubuntu-latest
-    container: ventus218/md-to-pdf
     steps:
       - uses: actions/checkout@v6
 
-      - name: Install Inter font
-        run: |
-          apt update -y
-          apt install -y --no-install-recommends fonts-inter
+      - name: Install rendercv
+        run: pipx install "rendercv[full]==2.8"
 
       - name: Generate PDF
-        run: md-to-pdf --config-file cv/md2pdf-config.json cv/CurriculumVitae.md
+        run: rendercv render cv/Alessandro_Venturini_CV.yaml
 
       - name: Set release metadata
         shell: bash
@@ -38,7 +35,7 @@ jobs:
           tag_name: ${{ env.TAG_NAME }}
           target_commitish: ${{ github.sha }}
           name: ${{ env.RELEASE_NAME }}
-          files: cv/CurriculumVitae.pdf
+          files: cv/rendercv-out/Alessandro_Venturini_CV.pdf
           prerelease: false
           generate_release_notes: false
           body: |
