@@ -208,8 +208,10 @@ design:
   #     space_above: 0cm
   #     space_between_items: 0cm
   #     space_between_bullet_and_text: 0.5em
-  # templates:
-  #   footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+  templates:
+    footer:
+      "I authorise the processing of personal data contained within my CV,
+      according to GDPR (EU) 2016/679, Article 6.1(a)."
   #   top_note: '*LAST_UPDATED CURRENT_DATE*'
   #   single_date: MONTH_ABBREVIATION YEAR
   #   date_range: START_DATE – END_DATE
