@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
 cv:
   name: Alessandro Venturini
-  headline:
+  headline: Junior Software Engineer
   location: Bologna, Italy
   email: ales.ventus21@gmail.com
   photo: ../images/me3-round.png
